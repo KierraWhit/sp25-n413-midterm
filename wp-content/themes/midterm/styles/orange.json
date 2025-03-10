@@ -1,0 +1,38 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+	"version": 3,
+	"title": "Blue",
+	"styles": {
+		"elements": {
+			"h1": {
+				"color": {
+					"background": "var:preset|color|orange"
+				}
+			},
+			"h3": {
+				"color": {
+					"background": "var:preset|color|orange"
+				}
+			},
+			"h4": {
+				"border": {
+					"bottom": {
+						"color": "var:preset|color|orange"
+					}
+				}
+			}
+		},
+		"blocks": {
+			"core/button": {
+				"color": {
+					"background": "var:preset|color|orange"
+				}
+			},
+			"core/navigation": {
+				"color": {
+					"text": "var:preset|color|orange"
+				}
+			}
+		}
+	}
+}

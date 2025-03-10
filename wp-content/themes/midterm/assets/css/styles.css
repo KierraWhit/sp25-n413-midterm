@@ -1,0 +1,10 @@
+.wp-block-navigation-link.button a {
+    background-color: #0073aa;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.wp-block-navigation-link.button a:hover {
+    background-color: #005177;
+}
